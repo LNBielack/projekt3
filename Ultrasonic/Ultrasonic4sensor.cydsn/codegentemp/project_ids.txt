@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|987f5bf6-0f28-4b70-8d08-3d4964ddf15f
+C:\Users\Louis\OneDrive\Dokumenter\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|e70b8171-5929-494b-9a69-5d757dde3c42
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|c3c7a3ad-0d34-4823-8641-e67f22efe3fd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|2b5acb5f-e998-422c-ad1c-f37e5c635879
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|62ef3340-cacd-4bd7-a2c9-3d044573e07d
+C:\ase\gfv\PRJ3\Ultrasonic\Ultrasonic4sensor.cydsn\Ultrasonic4sensor.cyprj|eaad759d-999a-42ff-b7ba-6c8c9ca17614

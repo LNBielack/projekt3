@@ -1380,43 +1380,43 @@ END GROUP
  .debug_frame   0x00001b2c       0x5c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-reent.o)
  .debug_frame   0x00001b88       0x20 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-msizer.o)
 
-.debug_str      0x00000000     0x1b26
+.debug_str      0x00000000     0x1b66
  *(.debug_str)
- .debug_str     0x00000000      0x25a .\CortexM3\ARM_GCC_541\Debug\main.o
-                                0x2a2 (size before relaxing)
- .debug_str     0x0000025a      0x180 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_str     0x00000000      0x267 .\CortexM3\ARM_GCC_541\Debug\main.o
+                                0x2af (size before relaxing)
+ .debug_str     0x00000267      0x1b3 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
                                 0x300 (size before relaxing)
- .debug_str     0x000003da       0x7f .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+ .debug_str     0x0000041a       0x7f .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
                                 0x1d5 (size before relaxing)
- .debug_str     0x00000459      0x144 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+ .debug_str     0x00000499      0x144 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
                                 0x2fb (size before relaxing)
- .debug_str     0x0000059d      0x2f4 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(UART_1.o)
+ .debug_str     0x000005dd      0x2f4 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(UART_1.o)
                                 0x4a4 (size before relaxing)
- .debug_str     0x00000891      0x19d .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(UART_1_IntClock.o)
+ .debug_str     0x000008d1      0x19d .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(UART_1_IntClock.o)
                                 0x33f (size before relaxing)
- .debug_str     0x00000a2e      0x817 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(CyLib.o)
+ .debug_str     0x00000a6e      0x817 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(CyLib.o)
                                 0xa38 (size before relaxing)
- .debug_str     0x00001245      0x359 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(cyPm.o)
+ .debug_str     0x00001285      0x359 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(cyPm.o)
                                 0x718 (size before relaxing)
- .debug_str     0x0000159e       0x73 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S2_Echo.o)
+ .debug_str     0x000015de       0x73 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S2_Echo.o)
                                 0x1f1 (size before relaxing)
- .debug_str     0x00001611       0x67 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S1_Trig.o)
+ .debug_str     0x00001651       0x67 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S1_Trig.o)
                                 0x1f1 (size before relaxing)
- .debug_str     0x00001678       0x68 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S1_Echo.o)
+ .debug_str     0x000016b8       0x68 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S1_Echo.o)
                                 0x1f1 (size before relaxing)
- .debug_str     0x000016e0       0x67 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S2_Trig.o)
+ .debug_str     0x00001720       0x67 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S2_Trig.o)
                                 0x1f1 (size before relaxing)
- .debug_str     0x00001747       0x68 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S3_Echo.o)
+ .debug_str     0x00001787       0x68 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S3_Echo.o)
                                 0x1f1 (size before relaxing)
- .debug_str     0x000017af       0x67 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S3_Trig.o)
+ .debug_str     0x000017ef       0x67 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S3_Trig.o)
                                 0x1f1 (size before relaxing)
- .debug_str     0x00001816       0x68 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S4_Echo.o)
+ .debug_str     0x00001856       0x68 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S4_Echo.o)
                                 0x1f1 (size before relaxing)
- .debug_str     0x0000187e       0x67 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S4_Trig.o)
+ .debug_str     0x000018be       0x67 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(Pin_S4_Trig.o)
                                 0x1f1 (size before relaxing)
- .debug_str     0x000018e5      0x195 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(CyFlash.o)
+ .debug_str     0x00001925      0x195 .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(CyFlash.o)
                                 0x392 (size before relaxing)
- .debug_str     0x00001a7a       0xac .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(CySpc.o)
+ .debug_str     0x00001aba       0xac .\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.a(CySpc.o)
                                 0x31b (size before relaxing)
 
 .debug_loc      0x00000000     0x1e76
@@ -1616,4 +1616,4 @@ END GROUP
 
 /DISCARD/
  *(.note.GNU-stack)
-OUTPUT(C:\ase\gfv\PRJ3\Ultrasonic\Ultrasonic4sensor.cydsn\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.elf elf32-littlearm)
+OUTPUT(C:\Min mappe\GitHub\projekt3\Ultrasonic\Ultrasonic4sensor.cydsn\CortexM3\ARM_GCC_541\Debug\Ultrasonic4sensor.elf elf32-littlearm)

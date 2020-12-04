@@ -1,180 +1,82 @@
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/Cm3Start.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Cm3Start.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyDmac.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/cyapicallbacks.h 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyDmac.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo_aliases.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig_aliases.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo_aliases.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig_aliases.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo_aliases.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig_aliases.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo_aliases.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig_aliases.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cm3.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cmFunc.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cmInstr.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/isr_uart_rx.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/project.h C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/main.c 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Cm3Start.c : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyDmac.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo_aliases.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig_aliases.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo_aliases.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/cyapicallbacks.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig_aliases.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/CyDmac.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyDmac.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyDmac.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyDmac.c : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo_aliases.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/CyFlash.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.c : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig_aliases.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/CyLib.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.c : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo_aliases.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/CySpc.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.c : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig_aliases.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/Pin_S1_Echo.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo.c : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo_aliases.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cm3.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/Pin_S1_Trig.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig.c : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cmFunc.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cmInstr.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig_aliases.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/Pin_S2_Echo.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo.c : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo_aliases.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/Pin_S2_Trig.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig.c : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig_aliases.h : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/Pin_S3_Echo.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/isr_uart_rx.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo.c : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/project.h : 
 
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo_aliases.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/Pin_S3_Trig.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig_aliases.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/Pin_S4_Echo.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo_aliases.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/Pin_S4_Trig.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig_aliases.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/UART_1.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/UART_1_BOOT.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_BOOT.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_BOOT.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/UART_1_INT.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_INT.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/cyapicallbacks.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_INT.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/UART_1_IntClock.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_IntClock.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_IntClock.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/UART_1_PM.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_PM.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_PM.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/cyPm.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/cyapicallbacks.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/cy_em_eeprom.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/cyfitter_cfg.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/cyapicallbacks.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/cymetadata.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cymetadata.c 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cymetadata.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/cyutils.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyutils.c 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyutils.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/isr_uart_rx.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/isr_uart_rx.c C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/isr_uart_rx.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/cyapicallbacks.h 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/isr_uart_rx.c : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/isr_uart_rx.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cm3.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cmFunc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cmInstr.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/project.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyDmac.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyFlash.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CyLib.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/CySpc.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Echo_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S1_Trig_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Echo_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S2_Trig_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Echo_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S3_Trig_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Echo_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/Pin_S4_Trig_aliases.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/UART_1_IntClock.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyPm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cypins.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cytypes.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/isr_uart_rx.h C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/main.c 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cm3.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cmFunc.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/core_cmInstr.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/Generated_Source/PSoC5/project.h : 
-
-C:/ase/gfv/PRJ3/Ultrasonic/Ultrasonic4sensor.cydsn/main.c : 
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic4sensor.cydsn/main.c : 
 

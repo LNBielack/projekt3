@@ -1,0 +1,10 @@
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic1sensor.cydsn/CortexM3/ARM_GCC_541/Debug/CyBootAsmGnu.o : C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic1sensor.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic1sensor.cydsn/Generated_Source/PSoC5/cydevicegnu.inc C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic1sensor.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic1sensor.cydsn/Generated_Source/PSoC5/cyfittergnu.inc 
+
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic1sensor.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s : 
+
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic1sensor.cydsn/Generated_Source/PSoC5/cydevicegnu.inc : 
+
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic1sensor.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc : 
+
+C:/Min\ mappe/GitHub/projekt3/Ultrasonic/Ultrasonic1sensor.cydsn/Generated_Source/PSoC5/cyfittergnu.inc : 
+
